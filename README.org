@@ -8,3 +8,5 @@ original repo: https://code.google.com/p/freeinternals/
 This fork is to provide a maven build as I needed maven artifacts for
 a small project.
 
+2. 学习java编程语言和class文件
+https://www.codeproject.com/KB/java/
